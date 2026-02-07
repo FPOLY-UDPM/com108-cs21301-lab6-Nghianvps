@@ -25,7 +25,6 @@ void randomArray(int arr[], int size, int min, int max)
     }
 }
 
-// *max là trỏ tới biến max bên ngoài
 void timMaxMin(int arr[], int size, int *max, int *min)
 {
     *max = arr[0];
